@@ -9,5 +9,74 @@
     <color name="black">#000000</color>
     <color name="orange">#F2690C</color>
 
+    <!--<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <color name="colorPrimary">#F2690C</color>
+        <color name="colorPrimaryDark">#da5e0b</color>
+        <color name="colorAccent">#F2690C</color>
+
+        <color name="white">#FFFFFF</color>
+        <color name="black">#000000</color>
+        <color name="grey_light">#AEAFAF</color>
+        <color name="grey_dark">#636363</color>
+        <color name="colorBackground">#f9f9f9</color>
+
+        &lt;!&ndash;login screen&ndash;&gt;
+        <color name="blue_facebook">#3B5997</color>
+        <color name="orange_signup">#F2690C</color>
+        <color name="login_line">#867d5e</color>
+
+        &lt;!&ndash;sign up screen&ndash;&gt;
+        <color name="text_hint_color">#A5A9AD</color>
+        <color name="text_add_profile">#979B9E</color>
+        <color name="text_create_account">#5E626D</color>
+        <color name="text_field">#606569</color>
+        <color name="sign_up_line">#eaeaea</color>
+        <color name="image_bg">#5c636b</color>
+
+        &lt;!&ndash;follow fans screen&ndash;&gt;
+        <color name="text_search">#919296</color>
+        <color name="text_see_all">#F2690C</color>
+        <color name="text_contact">#5D6266</color>
+        <color name="text_twitter_friends">#939395</color>
+        <color name="follow_line">#cdcdcd</color>
+
+
+        &lt;!&ndash;venue screen&ndash;&gt;
+        <color name="text_sort">#939498</color>
+        <color name="text_field_heading">#5A636A</color>
+        <color name="text_field_sub">#5D6164</color>
+
+        &lt;!&ndash;dialog&ndash;&gt;
+        <color name="text_dialog">#596066</color>
+        <color name="list_divider">#EBEBEB</color>
+
+        <color name="red_alert">#E23332</color>
+        <color name="grey_alert">#808080</color>
+        <color name="transparent">#00ffffff</color>
+
+        &lt;!&ndash;frag colors&ndash;&gt;
+        <color name="frag_one">#F2690B</color>
+        <color name="frag_two">#79848D</color>
+        <color name="frag_three">#262A2D</color>
+        <color name="frag_four">#39A0D3</color>
+        <color name="frag_five">#40A397</color>
+        <color name="frag_six">#79848D</color>
+        <color name="frag_dark_gray">#282A2D</color>
+
+        &lt;!&ndash;Fans/Followings List Screen&ndash;&gt;
+        <color name="username_text_color">#4f575f</color>
+        <color name="fullname_text_color">#a3a6ab</color>
+
+
+        &lt;!&ndash;about screen&ndash;&gt;
+        <color name="text_about">#646161</color>
+
+        <color name="drawable_grey_color">#5b636b</color>
+
+
+    </resources>-->
+
+
 
 </resources>
